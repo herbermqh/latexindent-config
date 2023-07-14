@@ -33,7 +33,6 @@ noIndentBlock:
     noindent: 1
     cmhtest: 1
     minted: 1
-    texcode: 1
 
 # 5.3. contenidos de archivos y preámbulo
 fileContentsEnvironments:
@@ -127,7 +126,7 @@ lookForAlignDelims:
 # 5.6. Sangría después de los artículos, especiales y partidas
 indentAfterItems:
   itemize: 1
-  enumerate: 1
+  enumerate: 0
   description: 1
   list: 1
   question: 1
